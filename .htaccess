@@ -1,0 +1,5 @@
+//Add to .htaccess: (located at blog’s root location)
+
+Header unset Pragma
+FileETag None
+Header unset ETag
